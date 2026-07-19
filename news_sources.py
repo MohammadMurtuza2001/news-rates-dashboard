@@ -1,6 +1,5 @@
 
 NEWS_SOURCES = [
-    # -- Existing Tribune feeds (slugs kept stable for existing callers) --
     {
         "slug": "latest",
         "label": "Tribune Latest",
@@ -25,8 +24,6 @@ NEWS_SOURCES = [
         "url": "https://tribune.com.pk/feed/games",
         "source": "Tribune Games",
     },
-
-    # -- New feeds from for_later.txt --
     {
         "slug": "geo-pakistan",
         "label": "Geo News Pakistan",
