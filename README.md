@@ -2,7 +2,7 @@
 
 A full-stack dashboard that aggregates news from multiple sources, generates AI-powered article summaries, and tracks live currency and precious metal (gold/silver) rates.
 
-**Live demo:** https://news-rates-dashboard.vercel.app
+**Live demo:** https://news-rates-dashboard.vercel.app  
 **Backend API:** https://news-rates-dashboard-production.up.railway.app/docs
 
 ## Features
